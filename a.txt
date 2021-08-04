@@ -1,1 +1,2 @@
 Hello User
+Comapare with Staged and remote repo
